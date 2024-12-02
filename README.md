@@ -18,6 +18,7 @@ This project proposes a monitoring system for real-time ECG classification using
 It is designed to enhance cardiovascular anomaly detection by employing a two-stage architecture with computational efficiency, making it suitable for edge devices.
 
 ## Project Overview
+![Model Architecture](TSNN.PNG)
 1. **Data Preprocessing**:
    - Utilized the MIT-BIH Arrhythmia Database.
    - Preprocessing steps included noise reduction, R-peak detection, and heartbeat segmentation.
@@ -58,5 +59,3 @@ It is designed to enhance cardiovascular anomaly detection by employing a two-st
 ## Acknowledgments
 - **Supervisors**: Prof. Dr. Tallal Elshabrawy, Prof. Dr. Maggie Mashaly
 - **Co-Supervisor**: MSc. Ing. Fatma Hassan
-
-This work was completed as part of the Bachelor of Science in Networks program at the German University in Cairo.
