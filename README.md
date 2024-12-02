@@ -59,3 +59,8 @@ It is designed to enhance cardiovascular anomaly detection by employing a two-st
 ## Acknowledgments
 - **Supervisors**: Prof. Dr. Tallal Elshabrawy, Prof. Dr. Maggie Mashaly
 - **Co-Supervisor**: MSc. Ing. Fatma Hassan
+
+
+## Download Bachelor Thesis
+- You can download the complete bachelor thesis here:
+- [Download Thesis PDF](Alaa_ShamsEldin_Thesis.pdf)
