@@ -62,5 +62,5 @@ It is designed to enhance cardiovascular anomaly detection by employing a two-st
 
 
 ## Download Bachelor Thesis
-- You can download the complete bachelor thesis here:
+- You can download the bachelor thesis here:
 - [Download Thesis PDF](Alaa_ShamsEldin_Thesis.pdf)
